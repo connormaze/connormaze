@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @connormaze
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: reply@connormaze.com
